@@ -13,7 +13,7 @@
   ## Credits:
   ### N/A
 
-  ## License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  ## License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Features:
   ### This readme generator will take user input and create a readme.md file, the file name should be the tile, with all other information the user enter. Some questions can be leave as blank such as Credits and Contributors, other questions must be answered otherwise the error message will appear.
