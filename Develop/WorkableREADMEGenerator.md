@@ -1,10 +1,10 @@
 
   # Workable README Generator
 
-  ## License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  ## License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description:
-  ### This is a README file generator, it will create a readme file according the user input
+  ### This project will generate a readme.md file by taking user anwser as input
 
   ## Table of Content
   ### *[Installation](#installation)
@@ -19,22 +19,22 @@
   ### N/A
 
   ## Usage:
-  ### Just follow the instruction in the terminal
+  ### Please follow the instruction shown in the terminal
 
   ## Credits:
   ### N/A
 
-  ## License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  ### https://choosealicense.com/licenses/mit/
+  ## License: MIT ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ### https://opensource.org/licenses/MIT
 
   ## Features:
-  ### This readme generator will take user input and create a readme.md file, the file name should be the tile, with all other information the user enter
+  ### When run the js, multiple question will shown in the terminal, some of the questions can be skipped, others must be answered, when all the questions are answered the project will create a readme file with file name as entered title
 
   ## Contributors:
   ### N/A
 
   ## Tests:
-  ### Please follow the instruction in the terminal
+  ### Please follow the instructions in the terminal
 
   ## Questions:
   ### Github: Haozhe-H(https://github.com/Haozhe-H)
